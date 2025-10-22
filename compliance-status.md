@@ -51,7 +51,7 @@
 - 📌 Phase 2: e-Tax連携（将来）
 
 **参照**:
-- [docs/tax-compliance.md](../tax-compliance.md) - 税務コンプライアンス設計書
+- [docs/tax-compliance.md](tax-compliance.md) - 税務コンプライアンス設計書
 
 ---
 
@@ -81,7 +81,7 @@
 - 📌 Phase 2: レシート画像からの禁止品目検出
 
 **参照**:
-- [docs/mvp-features.md](../mvp-features.md) - MVP機能仕様・禁止品目リスト
+- [docs/mvp-features.md](mvp-features.md) - MVP機能仕様・禁止品目リスト
 
 ---
 
@@ -114,8 +114,8 @@
 - 📌 Phase 2: バグバウンティプログラムの導入
 
 **参照**:
-- [docs/architecture.md](../architecture.md) - 技術スタック・セキュリティ設計
-- [docs/data-model.md](../data-model.md) - データモデル・RLS設計
+- [docs/architecture.md](architecture.md) - 技術スタック・セキュリティ設計
+- [docs/data-model.md](data-model.md) - データモデル・RLS設計
 
 ---
 
@@ -145,7 +145,7 @@
 - 📌 Phase 2: 混在レシートの自動分離
 
 **参照**:
-- [docs/implementation/receipt-management-policy.md](../implementation/receipt-management-policy.md) - レシート管理方針
+- [docs/implementation/receipt-management-policy.md](receipt-management-policy.md) - レシート管理方針
 
 ---
 
@@ -172,7 +172,7 @@
 - 📌 Phase 2: AI不正検出システム
 
 **参照**:
-- [docs/mvp-features.md](../mvp-features.md) - MVP機能仕様・報告機能
+- [docs/mvp-features.md](mvp-features.md) - MVP機能仕様・報告機能
 
 ---
 

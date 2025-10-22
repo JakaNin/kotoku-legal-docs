@@ -48,9 +48,9 @@
 
 ### 補足資料
 
-- [mvp-features.md](../mvp-features.md) - MVP機能仕様・禁止品目リスト
-- [architecture.md](../architecture.md) - 技術スタック・セキュリティ設計
-- [data-model.md](../data-model.md) - データモデル・RLS設計
+- [mvp-features.md](mvp-features.md) - MVP機能仕様・禁止品目リスト
+- [architecture.md](architecture.md) - 技術スタック・セキュリティ設計
+- [data-model.md](data-model.md) - データモデル・RLS設計
 
 ---
 

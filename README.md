@@ -155,11 +155,11 @@
 
 ## 📁 関連する既存ドキュメント
 
-- [docs/mvp-features.md](../mvp-features.md) - MVP機能仕様・禁止品目リスト
-- [docs/architecture.md](../architecture.md) - 技術スタック・セキュリティ設計
-- [docs/data-model.md](../data-model.md) - データモデル・RLS設計
-- [docs/tax-compliance.md](../tax-compliance.md) - 税務コンプライアンス詳細
-- [docs/implementation/receipt-management-policy.md](../implementation/receipt-management-policy.md) - レシート管理方針
+- [docs/mvp-features.md](mvp-features.md) - MVP機能仕様・禁止品目リスト
+- [docs/architecture.md](architecture.md) - 技術スタック・セキュリティ設計
+- [docs/data-model.md](data-model.md) - データモデル・RLS設計
+- [docs/tax-compliance.md](tax-compliance.md) - 税務コンプライアンス詳細
+- [docs/implementation/receipt-management-policy.md](receipt-management-policy.md) - レシート管理方針
 
 ---
 
